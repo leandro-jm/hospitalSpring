@@ -1,4 +1,4 @@
-package br.com.ljm.sprest.entrypoint;
+package br.com.ljm.sprest.controller;
 
 import br.com.ljm.sprest.component.MessageProducer;
 import br.com.ljm.sprest.entities.Patient;
